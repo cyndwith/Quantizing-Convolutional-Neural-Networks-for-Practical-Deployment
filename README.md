@@ -12,3 +12,5 @@ Quantization is vital in edge AI, converting high-precision floating-point numbe
 [1] https://www.edge-ai-vision.com/2023/12/from-theory-to-practice-quantizing-convolutional-neural-networks-for-practical-deployment/
 
 [2] https://www.edge-ai-vision.com/2024/02/quantization-of-convolutional-neural-networks-model-quantization/
+
+[3] Dwith Chenna, “Quantization of Convolutional Neural Networks: A Practical Approach”, International Journal of Science & Engineering Development Research, Vol.8, Issue 12, page no.181 – 192, December-2023, Available :http://www.ijrti.org/papers/IJRTI2312025.pdf
