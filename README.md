@@ -1,7 +1,7 @@
 # Quantizing-Convolutional-Neural-Networks-for-Practical-Deployment
 Quantization is vital in edge AI, converting high-precision floating-point numbers to fixed-point or integers. This reduces memory demands, enabling efficient processing on resource-constrained devices while maintaining acceptable accuracy. 
 
-# Quantization levels
+# Quantization Error
 ![quantization_vis](https://github.com/cyndwith/Quantizing-Convolutional-Neural-Networks-for-Practical-Deployment/assets/11755434/ccd34f3f-ba10-4f1b-866d-1acc7a5e2cb2)
 
 
